@@ -7,7 +7,7 @@ Ce projet vise à analyser les données de livres en ligne en utilisant des tech
 ## Structure du Projet
 
 - **api/** : Contient les fichiers liés à l'API.
-- **document/** : Contient des documents supplémentaires, y compris un PDF synthétique présentant le projet.
+- **document/** : Contient des documents supplémentaires, une presentation et un document syntethique présentant le projet.
 - **notebook/** : Contient les notebooks Jupyter utilisés pour le web scraping, le nettoyage et l'analyse des données.
 
 ## Déploiement
